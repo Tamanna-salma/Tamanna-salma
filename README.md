@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Salma</h1>
-<h3 align="center">Frontend developer</h3>
+<h1 align="center bold">Hi 👋, I'm Salma</h1>
+<h1 align="center">Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamanna-salma&label=Profile%20views&color=0e75b6&style=flat" alt="tamanna-salma" /> </p>
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/tamanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamanna" height="30" width="40" /></a>
+<a href="https://web.facebook.com/ummey.salma.tamanna.2024?_rdc=1&_rdr#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamanna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
