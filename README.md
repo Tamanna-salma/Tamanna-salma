@@ -28,10 +28,14 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna-salma)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna-salma&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamanna-salma&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tamanna-salma)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamanna-salma)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamanna-salma&show_icons=true&theme=radical)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tamanna-salma&theme=radical)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamanna-salma&theme=radical)  
+
+
+
+
 
 
