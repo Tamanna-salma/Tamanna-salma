@@ -1,5 +1,5 @@
-<h1 align="center bold">Hi 👋, I'm Salma</h1>
-<h1 align="center">Frontend developer</h3>
+<h1 align="center text-purple-800  bold">Hi 👋, I'm Salma</h1>
+<h1 align="center text-purple-600 font-bold italic">Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamanna-salma&label=Profile%20views&color=0e75b6&style=flat" alt="tamanna-salma" /> </p>
 
@@ -40,5 +40,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna-salma&layout=compact&theme=radical" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna-salma)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamanna-salma&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tamanna-salma)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamanna-salma)  
 
 
