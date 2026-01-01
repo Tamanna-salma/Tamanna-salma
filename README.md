@@ -9,11 +9,16 @@
 
 ## 🙋‍♀️ About Me
 
-- 💻 Frontend Developer specializing in responsive and modern website development  
-- ⚛️ Strong foundation in HTML, CSS, JavaScript, and React  
-- 🎨 Focused on creating clean, accessible, and user-friendly interfaces  
-- 🚀 Continuously learning new tools and frameworks such as Next.js  
-- 🤝 Enjoy collaborating, problem-solving, and growing as a developer
+- 🌱 I’m currently learning *Next.js*
+
+- 👨‍💻 All of my projects are available at [https://glistening-sopapillas-4babc7.netlify.app/](https://glistening-sopapillas-4babc7.netlify.app/)
+
+- 💬 Ask me about *Web Developer*
+
+- 📫 How to reach me *tamannaummey26@gmail.com*
+
+- 📄 Know about my experiences [Improved user experience and performance](Improved user experience and performance)
+
 - 😄 funy *I think I am funny and love learning new technologies.*
 
 <h3 align="left">Social Links:</h3>
@@ -105,22 +110,12 @@
     <img src="https://skillicons.dev/icons?i=illustrator" />
   </a>
 </p>
+--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna-salma&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna-salma&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamanna-salma&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamanna-salma&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Tamanna-salma&theme=radical" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamanna-salma&show_icons=true&theme=radical)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tamanna-salma&theme=radical)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamanna-salma&theme=radical)
 ---
 
 ### 🖋️  Animation Zone
