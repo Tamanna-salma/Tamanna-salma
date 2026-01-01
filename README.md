@@ -110,12 +110,16 @@
     <img src="https://skillicons.dev/icons?i=illustrator" />
   </a>
 </p>
---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna-salma&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamanna-salma&show_icons=true&theme=radical)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tamanna-salma&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna-salma&layout=compact&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamanna-salma&show_icons=true&theme=radical)
+ 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tamanna-salma&theme=radical)
+ 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamanna-salma&theme=radical)
----
+
+
 
 ### 🖋️  Animation Zone
 <p align="center">
