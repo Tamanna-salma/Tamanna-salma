@@ -3,8 +3,8 @@
 
 ---
 
-<h1 align="center">Hi, I'm Your Kushbula Ahmed Nahiyan Khan 👋</h1>
-<h3 align="center">MERN Stack Web Developer</h3>
+<h1 align="center">Hi, I'm Salma 👋</h1>
+<h3 align="center">Frontend developer</h3>
 
 <p align="center" style="font-size: 16px;">
   Passionate about building fast, scalable, and user-friendly web applications.<br/>
@@ -17,50 +17,62 @@
 
 - 🔍 *Exploring JavaScript deeply* — focusing on core concepts like closures, event loop, async patterns, prototypes, and performance optimization.
 - 🌱 Learning *MERN* for building high-performance full-stack applications
-- 💼 Working on a *Shipping Web Application*
+- 💼 Working on a * Web Application*
 - 🛠 Improving my *Backend & API development* skills
 - 🎨 Learning better *UI/UX design principles*
+- - 
+- 👨‍💻 All of my projects are available at [https://glistening-sopapillas-4babc7.netlify.app/](https://glistening-sopapillas-4babc7.netlify.app/)
+
+- 💬 Ask me about *Web Developer*
+
+- 📫 How to reach me *tamannaummey26@gmail.com*
+
+- 📄 Know about my experiences [Improved user experience and performance](Improved user experience and performance)
+😄 funy *I think I am funny and love learning new technologies.*
 
 ---
 
 ## 🛠️ Skills
-
-### FrontEnd:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase)](https://skillicons.dev)
-
-### BackEnd:
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,)](https://skillicons.dev)
-
-### Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
 ### Designs:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator)](https://skillicons.dev)
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=photoshop" />
+  </a>
+
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=illustrator" />
+  </a>
+</p>
 
 ---
 
 ## 🌐 Social Links
 
-- 📧 Email: [kushbuladesignmax+++@gmail.com](mailto:kushbuladesignmax+++@gmail.com)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/kushbula-designmax-b07598382/](https://www.linkedin.com/in/kushbula-designmax-b07598382/)
-- 🔗 Facebook: [https://www.facebook.com/nahiyan.01.khan](https://www.facebook.com/nahiyan.01.khan)
-- 🌐 Portfolio: []()
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://web.facebook.com/ummey.salma.tamanna.2024?_rdc=1&_rdr#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamanna" height="30" width="40" /></a>
+
+  <a href="https://www.linkedin.com/in/ummeysalma912a31317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ummey salma" height="30" width="40" /></a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nahiyankhan55&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahiyankhan55&layout=compact&theme=tokyonight" height="160px"/>
-</div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna-salma&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=nahiyankhan55&theme=tokyonight" height="180px"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamanna-salma&show_icons=true&theme=radical)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tamanna-salma&theme=radical)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamanna-salma&theme=radical)
 </div>
 
 ---
