@@ -112,7 +112,6 @@
 </p>
 --
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna-salma&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamanna-salma&show_icons=true&theme=radical)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tamanna-salma&theme=radical)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamanna-salma&theme=radical)
@@ -135,6 +134,7 @@
 ---
 
 🌸 Thank You for Visiting!
-. Thank you so much for taking the time to explore my profile.
-. Your support and interest truly mean a lot!
-. Feel free to connect with me or check out my projects anytime.
+
+* Thank you so much for taking the time to explore my profile.
+* Your support and interest truly mean a lot!
+* Feel free to connect with me or check out my projects anytime.
