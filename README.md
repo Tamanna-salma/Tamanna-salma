@@ -27,6 +27,21 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode,firebase,vercel" />
 </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=css" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
