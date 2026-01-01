@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://www.canva.com/design/DAG9F5Ra5zQ/weB6TNMUS4ronhlPG4EeUA/edit" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/YTFG6vcf/Navy-Blue-Geometric-Technology-Linked-In-Banner.jpg" alt="Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Salma</h1>
 <h1 align="center">Frontend developer | Tech Explorer  </h3>
