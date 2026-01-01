@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="[https://images.unsplash.com/photo-1557683316-973673baf926?fit=crop&w=1000&h=200](https://www.canva.com/design/DAG9F5Ra5zQ/weB6TNMUS4ronhlPG4EeUA/edit?utm_content=DAG9F5Ra5zQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Salma</h1>
 <h1 align="center">Frontend developer | Tech Explorer  </h3>
 
