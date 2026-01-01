@@ -23,25 +23,10 @@
 
   <a href="https://www.linkedin.com/in/ummeysalma912a31317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ummey salma" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode,firebase,vercel" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=css" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
