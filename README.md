@@ -123,8 +123,9 @@
 
 ### 🖋️  Animation Zone
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer +Web+Developer;Tech+Lover+%7C+Problem+Solver+%7C+Dreamer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=500&lines=Frontend%20Developer%20%7C%20Web%20Developer;Tech%20Lover%20%7C%20Problem%20Solver%20%7C%20Dreamer" />
 </p>
+
 
 ---
 
