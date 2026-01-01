@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co.com/YTFG6vcf/Navy-Blue-Geometric-Technology-Linked-In-Banner.jpg" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/GfpwJZ7H/Navy-Blue-Geometric-Technology-Linked-In-Banner-2.jpg" alt="Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Salma</h1>
 <h1 align="center">Frontend developer | Tech Explorer  </h3>
